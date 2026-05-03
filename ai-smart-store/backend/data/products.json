@@ -1,0 +1,110 @@
+[
+  {
+    "id": "p1",
+    "name": "Ceramic Pour-Over Coffee Maker",
+    "category": "Home",
+    "price": 45.00,
+    "features": ["Handcrafted", "Minimalist design", "Dishwasher safe"],
+    "description": "Start your morning with mindfulness. This handcrafted ceramic pour-over elevates your coffee ritual.",
+    "imageUrl": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "p2",
+    "name": "Linen Blend Throw Blanket",
+    "category": "Living",
+    "price": 85.00,
+    "features": ["Organic linen", "Breathable", "Fringed edges"],
+    "description": "Add a touch of soft texture to your sofa or bed. Perfect for cozy evenings.",
+    "imageUrl": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "p3",
+    "name": "Matte Black Desk Lamp",
+    "category": "Workspace",
+    "price": 60.00,
+    "features": ["Adjustable arm", "Warm LED", "Matte finish"],
+    "description": "Focus better with this sleek, minimalist desk lamp providing the perfect warm glow.",
+    "imageUrl": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "p4",
+    "name": "Ribbed Glass Vase",
+    "category": "Decor",
+    "price": 35.00,
+    "features": ["Hand-blown glass", "Ribbed texture", "Wide base"],
+    "description": "Display your favorite blooms in this elegant, vintage-inspired ribbed glass vase.",
+    "imageUrl": "https://images.unsplash.com/photo-1598212683021-d60270529729?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "p5",
+    "name": "Canvas Tote Bag",
+    "category": "Accessories",
+    "price": 25.00,
+    "features": ["Heavyweight canvas", "Inner pocket", "Reinforced handles"],
+    "description": "Your everyday companion. Durable, spacious, and effortlessly stylish.",
+    "imageUrl": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "p6",
+    "name": "Aromatherapy Diffuser",
+    "category": "Home",
+    "price": 55.00,
+    "features": ["Stone finish", "Quiet operation", "Timer settings"],
+    "description": "Transform your space into a sanctuary with this elegant stone-finished essential oil diffuser.",
+    "imageUrl": "https://images.unsplash.com/photo-1602928321679-560bb453f190?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "p7",
+    "name": "Organic Cotton Sheets Set",
+    "category": "Living",
+    "price": 120.00,
+    "features": ["100% Organic Cotton", "Percale weave", "Cooling"],
+    "description": "Crisp, cool, and breathable. Upgrade your sleep quality with our premium organic cotton sheets.",
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "p8",
+    "name": "Minimalist Wall Clock",
+    "category": "Decor",
+    "price": 48.00,
+    "features": ["Silent sweep", "Matte face", "Wooden hands"],
+    "description": "Keep time beautifully. A silent sweep movement ensures no ticking to interrupt your peace.",
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "p9",
+    "name": "Artisan Serving Board",
+    "category": "Kitchen",
+    "price": 65.00,
+    "features": ["Walnut wood", "Live edge", "Food-safe oil finish"],
+    "description": "Host in style. Each board is uniquely carved from rich walnut wood, perfect for charcuterie.",
+    "imageUrl": "https://images.unsplash.com/photo-1606859191214-25806e8e2423?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "p10",
+    "name": "Textured Ceramic Mug",
+    "category": "Kitchen",
+    "price": 22.00,
+    "features": ["Hand-thrown", "Earthy glaze", "Ergonomic handle"],
+    "description": "Enjoy your favorite warm beverage in a mug that feels grounded and comforting to hold.",
+    "imageUrl": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "p11",
+    "name": "Woven Storage Basket",
+    "category": "Home",
+    "price": 38.00,
+    "features": ["Seagrass", "Sturdy handles", "Foldable"],
+    "description": "Keep clutter out of sight with these natural woven seagrass baskets. Practical and beautiful.",
+    "imageUrl": "https://images.unsplash.com/photo-1616400619175-5beda3a17896?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "p12",
+    "name": "Soy Wax Candle - Santal",
+    "category": "Living",
+    "price": 28.00,
+    "features": ["Hand-poured", "Wood wick", "60h burn time"],
+    "description": "A grounding scent profile of sandalwood, cedar, and subtle amber. Clean burning soy wax.",
+    "imageUrl": "https://images.unsplash.com/photo-1602874801007-bd458bb1b8b6?auto=format&fit=crop&q=80&w=800"
+  }
+]

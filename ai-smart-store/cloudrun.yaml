@@ -23,4 +23,4 @@ spec:
             memory: 512Mi
         env:
         - name: GEMINI_API_KEY
-          value: "AIzaSyBxUY7dqJpeV-RZtWsfHMsYOK-HGUVVc5k"
+          value: "ADD_your_Gemini_API_Key_here"
